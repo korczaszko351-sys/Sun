@@ -1,5 +1,4 @@
 flask
-wxpython
 flask_sqlalchemy
 pyjwt
 bcrypt
